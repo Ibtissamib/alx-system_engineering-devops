@@ -1,2 +1,2 @@
 #!/bin/bash
-alx-system_engineering-devops \n
+name of repositoty alx-system_engineering-devops contains two projects shel basics and shell permissions \n
